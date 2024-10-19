@@ -1,1 +1,1 @@
-# HibernateProjetct
+# HibernateProject
